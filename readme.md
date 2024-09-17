@@ -26,8 +26,6 @@ https://i.pinimg.com/originals/86/1d/e3/861de38f9cd1ba4c874afe89edbeac84.jpg
 
 ---
 
-# Торговая компания
-- Деятельность и работа компании
 
 
 ![image](https://github.com/user-attachments/assets/ee373b07-a0a7-429f-ae6f-d89250909f85)
