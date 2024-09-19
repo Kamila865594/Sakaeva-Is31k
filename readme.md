@@ -36,7 +36,7 @@
 
 
 ### Диаграмма наследования
-![image](https://github.com/user-attachments/assets/f72b44dd-b5b8-428d-8d6f-d204437fa831)
+![image](https://github.com/user-attachments/assets/36c6f948-bfa6-4f71-9bb9-88a9d9663b9d)
 
 
 
